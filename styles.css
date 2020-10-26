@@ -1,0 +1,39 @@
+
+body{
+    background-color: #fad7a0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+#viewImages{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin: 30px auto;
+
+}
+    
+#myGallery{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding:0 100px 100px 100px;
+}
+
+
+
+
+.img{
+    width:300px;
+    height:300px;
+}
+
+.dogImg{
+    width:400px;
+    height:400px;
+}
+
+
